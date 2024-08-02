@@ -6,6 +6,7 @@ Interactive MS Excel dashboard visualizing ABC Super Store's overall demographic
 This project showcases a comprehensive Excel dashboard for ABC Store's sales data analysis. The dashboard utilizes multiple Excel functions, Pivot Tables, and charts to visualize key business metrics. Alongside the visual representation, the project includes a report on a separate worksheet (hidden) that presents critical business insights.
 
 **How to Read the Excel File**
+
 The first tab contains charts and visuals summarizing the key metrics and trends. The second tab includes the raw data used for creating the dashboard and conducting analysis.
 
 **Business Problem**
