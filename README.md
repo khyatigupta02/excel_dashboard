@@ -20,6 +20,4 @@ This dashboard provides valuable insights and answers several crucial business q
 **Dashboard**
 ![Excel Dashboard](https://github.com/user-attachments/assets/448c56b2-3c49-4100-8e3a-f129776b2d57)
 
-
-https://github.com/user-attachments/assets/7d49b83e-38a1-4d31-8cd7-1dc711b4ab55
-
+https://github.com/user-attachments/assets/cc300042-42da-4ad8-b9a0-179aef61069c
