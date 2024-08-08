@@ -18,6 +18,4 @@ This dashboard provides valuable insights and answers several crucial business q
 3. What is the gender ratio of customers ordering products from ABC Store?
 
 **Dashboard**
-![Excel Dashboard](https://github.com/user-attachments/assets/448c56b2-3c49-4100-8e3a-f129776b2d57)
-
 https://github.com/user-attachments/assets/cc300042-42da-4ad8-b9a0-179aef61069c
